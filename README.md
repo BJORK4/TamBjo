@@ -2,7 +2,7 @@
     
 
 <p align="center" dir="auto">
-<a href="https://github.com/bjork4/TamBjo/blob/v6/README.md#"><img title="BJORK4 MULTI DEVICE" src="https://camo.githubusercontent.com/9f726d72d96c4970d85499010fa8aa83d419cfba366dbc0dda9b0bf861db16dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f484152554b41204d554c5449204445564943452d677265656e3f636f6c6f72413d25323366663030303026636f6c6f72423d253233303137653430267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&amp;colorB=%23017e40&amp;style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://github.com/bjork4/TamBjo/blob/v6/README.md#"><img title="BJORK4 MULTI DEVICE" src="https://camo.githubusercontent.com/9f726d72d96c4970d85499010fa8aa83d419cfba366dbc0dda9b0bf861db16dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f484152554b41204d554c5449204445564943452d677265656e3f636f6c6f72413d25323366663030303026636f6c6f72423d253233303137653430267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/BJORK4 MULTI DEVICE-green?colorA=%23ff0000&amp;colorB=%23017e40&amp;style=for-the-badge" style="max-width: 100%;"></a>
 </p>
 
 # Install
